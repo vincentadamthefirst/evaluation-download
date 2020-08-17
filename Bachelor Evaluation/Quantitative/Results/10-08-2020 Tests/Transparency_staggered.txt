@@ -1,7 +1,0 @@
-Evaluation Type: Transparency
-Averages:
-	FPS: 105,3202
-	Labels: 0,0007
-	Roads: NaN
-	Detection: 0,151528463806092
-	Handling: 0,0145598427775958
