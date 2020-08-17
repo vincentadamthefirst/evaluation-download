@@ -1,0 +1,19 @@
+Evaluation Results 
+ 
+Tester:     Vincent
+Start:      20-Aug-09_13-54-15
+End:        20-Aug-09_13-54-51
+Total Time: 36781ms = 36s
+ 
+Average FPS: 136,867
+Lowest  FPS: 43
+Highest FPS: 198
+ 
+Total Key Strokes: 65
+Distance Moved:    1049,346
+Total Rotation:    9487,139
+ 
+
+
+Additional Information by Tester:
+42 Ich schöre

@@ -1,0 +1,18 @@
+Evaluation Results 
+ 
+Tester:     Unknown
+Start:      20-Aug-14_16-10-29
+End:        20-Aug-14_16-10-40
+Total Time: 11384ms = 11s
+ 
+Average FPS: 191,221
+Lowest  FPS: 57
+Highest FPS: 398
+ 
+Total Key Strokes: 23
+Distance Moved:    298,8921
+Total Rotation:    1529,98
+ 
+
+
+Additional Information by Tester:

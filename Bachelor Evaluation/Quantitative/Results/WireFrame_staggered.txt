@@ -1,0 +1,7 @@
+Evaluation Type: WireFrame
+Averages:
+	FPS: 202,2945
+	Labels: 0,0448666666666667
+	Roads: NaN
+	Detection: 3,83428733239944
+	Handling: 3,61975137082249

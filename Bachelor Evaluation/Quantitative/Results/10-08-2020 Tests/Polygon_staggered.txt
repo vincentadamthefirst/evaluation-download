@@ -1,0 +1,7 @@
+Evaluation Type: Polygon
+Averages:
+	FPS: 105,133
+	Labels: 0,0006
+	Roads: NaN
+	Detection: 0,152194773918742
+	Handling: 0,0143502621231979

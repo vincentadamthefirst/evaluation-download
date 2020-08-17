@@ -1,0 +1,7 @@
+Evaluation Type: Shader
+Averages:
+	FPS: 170,7725
+	Labels: 0,0009
+	Roads: 0,0305947368421053
+	Detection: NaN
+	Handling: NaN

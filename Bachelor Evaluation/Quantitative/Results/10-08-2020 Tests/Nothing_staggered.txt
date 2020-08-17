@@ -1,0 +1,7 @@
+Evaluation Type: Nothing
+Averages:
+	FPS: 173,9787
+	Labels: 0,0049
+	Roads: 0,0749880952380952
+	Detection: NaN
+	Handling: NaN

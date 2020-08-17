@@ -1,0 +1,19 @@
+Evaluation Results 
+ 
+Tester:     Counting Meister
+Start:      20-Aug-13_09-41-37
+End:        20-Aug-13_09-42-39
+Total Time: 61606ms = 61s
+ 
+Average FPS: 270,973
+Lowest  FPS: 85
+Highest FPS: 461
+ 
+Total Key Strokes: 14
+Distance Moved:    424,5868
+Total Rotation:    2134,358
+ 
+
+
+Additional Information by Tester:
+Wububububububububububububububububububububububububbubuuubuububububdwawdawwdwa\nwddwdawdawdawdawdawdawdwwwwwwwwwwwwwwwwwwwwwwwwdsdwdwdwdwdwww

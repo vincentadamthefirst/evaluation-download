@@ -1,0 +1,7 @@
+Evaluation Type: RayCast
+Averages:
+	FPS: 103,5199
+	Labels: 0,0008
+	Roads: NaN
+	Detection: 0,148482510013351
+	Handling: 0,0146614652870493

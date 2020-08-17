@@ -1,0 +1,32 @@
+Evaluation Results 
+ 
+Tester:     The Juan And Only
+Start:      20-Aug-13_09-47-23
+End:        20-Aug-13_09-48-01
+Total Time: 37825ms = 37s
+ 
+Average FPS: 232,665
+Lowest  FPS: 39
+Highest FPS: 432
+ 
+Total Key Strokes: 40
+Distance Moved:    1889,436
+Total Rotation:    4333,035
+ 
+
+
+Additional Information by Tester:
+Yeah bois
+pretty nifty shit
+
+
+
+dwdawdw
+
+wwwd
+
+wd
+wd
+wd
+wd
+wdwd
